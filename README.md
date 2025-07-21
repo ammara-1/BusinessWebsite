@@ -34,7 +34,7 @@ It reflects my ability to design custom layouts for niche purposes like business
 ## 🖼️ Website Preview
 
 ### Homepage
-![Homepage](./homepage.png)
+![Homepage](./home.png)
 
 ---
 
