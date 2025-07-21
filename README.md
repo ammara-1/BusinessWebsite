@@ -9,7 +9,7 @@
 
 This Wix website was designed as a **modern blog-style layout**, ideal for content-driven brands or professionals sharing insights, updates, or thought leadership. The design is minimalist, clean, and focused on content readability and flow.
 
-Though this version is hosted on a Wix free domain and not tied to a business domain, it reflects my ability to design custom layouts for niche purposes like blogs, educational sites, and personal brands.
+It reflects my ability to design custom layouts for niche purposes like blogs, educational sites, and personal brands.
 
 ---
 
