@@ -1,4 +1,4 @@
-# Insights Blog-Style Website 📝
+# Business Website 📝
 
 **Created by: Ammara | Web Designer & Automation Expert**  
 *Helping Brands Grow with AI-Powered Websites*
@@ -7,9 +7,9 @@
 
 ## 📌 Project Overview
 
-This Wix website was designed as a **modern blog-style layout**, ideal for content-driven brands or professionals sharing insights, updates, or thought leadership. The design is minimalist, clean, and focused on content readability and flow.
+This Wix website was designed as a **modern and sleek layout**, ideal for content-driven brands or professionals sharing insights, updates, or thought leadership. The design is minimalist, clean, and focused on content readability and flow.
 
-It reflects my ability to design custom layouts for niche purposes like blogs, educational sites, and personal brands.
+It reflects my ability to design custom layouts for niche purposes like business websites, blogs, educational sites, and personal brands.
 
 ---
 
@@ -34,13 +34,7 @@ It reflects my ability to design custom layouts for niche purposes like blogs, e
 ## 🖼️ Website Preview
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
-
-### Insights/Blog Section
-![Blog](./screenshots/blog-section.png)
-
-### About or Contact Section
-![Contact](./screenshots/contact.png)
+![Homepage](./homepage.png)
 
 ---
 
